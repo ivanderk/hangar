@@ -21,8 +21,24 @@ Cloud based development.
 ![Working of Takeoff](img/takeoff.png)
 
 ## Installation
+### as a user
 
 You can download a version of takeoff for you Operating System (Windows, MacOS or Linux) here:
+
+### as a developer
+
+Install Rust:
+
+ - [Rust documentation](https://www.rust-lang.org/tools/install)
+
+and then compile and run takeoff with 
+
+```bash
+
+cargo run help 
+   
+```
+which show the help info
 
 # Prerequisites and documentation
 
@@ -35,6 +51,11 @@ Takeoff uses devonfw Hangar but does so transparently so you don't have to insta
 is extremely usefull in its own right, so it's recommeded to take a look
 
  - [devonfw Hangar](https//github.com/devonfw/hangar)
+
+For using Rust to create console apps:
+
+- [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
+- [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
 ## Usage
 
