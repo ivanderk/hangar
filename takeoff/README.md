@@ -55,6 +55,7 @@ is extremely usefull in its own right, so it's recommeded to take a look
 For using Rust to create console apps:
 
 - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
+- [Command line argument parsing in Rust using Clap](https://blog.logrocket.com/command-line-argument-parsing-rust-using-clap/)
 - [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
 ## Usage
